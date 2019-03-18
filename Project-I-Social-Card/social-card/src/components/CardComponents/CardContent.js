@@ -7,7 +7,7 @@ const CardContent = () => {
       <div className="banner-bottom">
         <BannerImg />
         
-        <p className="BottomP">Get started with React</p>
+        <p className="BottomP HeaderP">Get started with React</p>
         <p className="BottomP">
           React makes it painless to make interactive UI's. Design simple views
           for each state in your application.

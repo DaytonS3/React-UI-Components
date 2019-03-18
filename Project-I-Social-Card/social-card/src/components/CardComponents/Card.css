@@ -21,6 +21,8 @@
 .BottomP {
     padding: 0 5px 2px 5px;
 
-    color: grey;
+}
 
+.HeaderP {
+    font-weight: bold;
 }
