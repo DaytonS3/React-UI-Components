@@ -1,1 +1,18 @@
 /* All styles for your Card Components live here */
+
+
+.BannerImg {
+    max-width: 575px;
+    margin-left: 65px;
+}
+
+.banner-bottom {
+    max-width: 563px;
+    margin-left: 65px;
+    border: 1px solid lightgrey;
+    padding: 5px;
+}
+
+.CardLink {
+    color: grey;
+}

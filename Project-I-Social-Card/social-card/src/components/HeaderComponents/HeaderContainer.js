@@ -8,10 +8,10 @@ import HeaderContent from './HeaderContent';
 
 const HeaderContainer = () => {
     return (
-      <div class="Header">
+      <div className="Header">
         <HeaderImage />
         <HeaderTitle />
-        <HeaderContent />
+        
       </div>
     );
   };

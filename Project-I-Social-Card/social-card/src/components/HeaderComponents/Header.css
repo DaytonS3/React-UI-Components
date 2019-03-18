@@ -1,1 +1,23 @@
 /* All styles for your header Components live here */
+
+
+.Header {
+    display: flex;
+    
+   
+}
+
+.headerImg {
+    height: 50px;
+    padding-right: 20px;
+}
+
+.hOne {
+    font-weight: bold;
+}
+
+.lDate {
+    color: grey;
+    font-size: 14px;
+    margin-left: 10px;
+}
