@@ -2,17 +2,21 @@
 
 
 .BannerImg {
-    max-width: 575px;
-    margin-left: 65px;
+    max-width: 100%;
+    
 }
 
 .banner-bottom {
-    max-width: 563px;
-    margin-left: 65px;
+    max-width: 600px;
+    margin-left: 60px;
     border: 1px solid lightgrey;
-    padding: 5px;
+    
 }
 
 .CardLink {
     color:grey;
+}
+
+.BottomP {
+    padding: 0 5px 2px 5px;
 }
