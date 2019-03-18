@@ -5,7 +5,7 @@ import './Card.css';
 <div className="bannerBottom">
     <p>Get started with React</p>
     <p>
-      React makes it painless to make interactive UI's. Design simple views
+      React makes it painless to make interactive UIs. Design simple views
       for each state in your application.
     </p>
     <div>
